@@ -1,0 +1,42 @@
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+label {
+  color: black;
+  margin-bottom: 10px;
+}
+
+input {
+  outline: none !important;
+}
+
+.small {
+  width: 100px;
+}
+
+.medium {
+  width: 400px;
+}
+
+.large {
+  width: 100%;
+}
+
+.green-border {
+  border: 1px solid green;
+  background-color: #bdddbf;
+}
+
+.red-border {
+  border: 1px solid red;
+  background-color: #d9a9a9;
+}
+
+span {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
