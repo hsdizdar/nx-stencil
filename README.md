@@ -4,6 +4,8 @@
 
 This project was generated using [Nx](https://nx.dev).
 
+`npm install -g nx`
+
 ## Install
 
 Run `npm install` to install the packages.
